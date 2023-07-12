@@ -1,0 +1,48 @@
+.album {
+    padding: 30px 60px;
+    min-height: 768px;
+}
+
+.album * {
+    font-family: "Inter";
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.album h1 {
+    margin-bottom: 60px;
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #000;
+}
+
+.album__grid a {
+    width: 260px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.album__grid a img {
+    width: 100%;
+    height: auto;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.previous-page-btn {
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 25px;
+    color: #000;
+    transition: 0.3s;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.previous-page-btn:hover {
+    color: #B7274C;
+}

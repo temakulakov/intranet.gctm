@@ -1,0 +1,124 @@
+.learning {
+    padding: 30px 60px;
+    min-height: 768px;
+}
+
+.learning * {
+    font-family: "Inter";
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    color: #000;
+}
+
+.learning a.previous-page-btn {
+    font-size: 16px;
+    line-height: 25px;
+    color: #000;
+    transition: 0.3s;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.learning a.previous-page-btn:hover {
+    color: #B7274C;
+    text-decoration: none;
+}
+
+.learning h1 {
+    margin-bottom: 25px;
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.learning p {
+    margin-bottom: 60px;
+}
+
+.text-bg {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.learning__img {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.learning__img img {
+    width: 100%;
+}
+
+.learning__materials {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+    row-gap: 60px;
+    margin-bottom: 60px;
+}
+
+.learning__materials-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.material__logo {
+    margin-bottom: 20px;
+    width: 260px;
+    height: 260px;
+}
+
+.material__logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.material__title {
+    margin-bottom: 5px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+
+    min-height: 100px;
+}
+
+.material__text {
+    margin-bottom: 25px;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.material__btn {
+    padding: 18px;
+    width: 100%;
+    text-align: center;
+    border-radius: 14px;
+    background-color: #B7274C;
+    color: #fff;
+    transition: 0.3s;
+}
+
+.material__btn:hover {
+    background-color: #891635;
+    color: #fff;
+}
+
+.showall {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.showall a {
+    text-decoration: underline;
+    color: #000;
+}
+
+.showall a:hover {
+    color: #B7274C;
+    text-decoration: underline;
+}

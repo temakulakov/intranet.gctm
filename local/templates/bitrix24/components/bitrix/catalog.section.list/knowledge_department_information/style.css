@@ -1,0 +1,75 @@
+.info {
+    padding: 30px 60px;
+}
+
+.info * {
+    font-family: "Inter";
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    color: #000;
+}
+
+.info h1 {
+    margin-bottom: 25px;
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.info p {
+    margin-bottom: 60px;
+}
+
+.text-bg {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.info__wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.info__link {
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(17, 17, 17, 0.15);
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+.info svg {
+    margin-bottom: 10px;
+}
+
+.info__link:hover svg path,
+.info__link:hover svg circle,
+.info__link:hover svg rect {
+    stroke: #fff;
+}
+
+.info__link:hover {
+    background-color: #B7274C;
+}
+
+.info__link:hover a,
+.info__link:hover .info__link-title,
+.info__link:hover .info__link-text {
+    color: #fff;
+}
+
+.info__link-title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 5px;
+}
+
+.info__link-text {
+    font-size: 16px;
+    line-height: 25px;
+}

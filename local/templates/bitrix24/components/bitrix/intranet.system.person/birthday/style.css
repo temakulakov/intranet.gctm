@@ -1,0 +1,98 @@
+.itemUser {
+	background-color: #F8FAFC;
+	border-radius: 10px;
+	transition: ease .4s;
+}
+
+.itemUser:hover {
+	background-color: #e2e8f0;
+}
+
+.userPic {
+	padding: 20px 20px 0 20px;
+}
+
+.userPic a{
+	display: block;
+}
+
+.userPic a img {
+	width: 212px;
+	height: 212px;
+	object-fit: cover;
+	object-position: center;
+	border-radius: 50%;
+}
+
+
+
+
+
+
+.wrapText {
+	padding: 20px;
+}
+
+.userName a{
+	display: block;
+	margin-bottom: 20px;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	color: #1e293b;
+	min-height: 50px;
+	transition: ease .3s;
+}
+
+.userName a:hover {
+	text-decoration: none;
+}
+
+
+.userPosition {
+	margin-bottom: 5px;
+	font-size: 16px;
+	font-weight: 400;
+	color:#991B1B;
+}
+
+
+
+
+
+.areaJob {
+	/*background-color: #fff;*/
+	font-size: 12px;
+	color:#475569;
+}
+
+.areaJob .otdel {
+	font-size: 14px;
+	display: block;
+}
+
+
+
+
+.titleBirth {
+	margin-top: 20px;
+	padding-top: 15px;
+	border-top:1px solid #cbd5e1;
+	color:#64748b;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+
+.dayBirth {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	border-bottom:1px solid #cbd5e1;
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+}
+
+
+

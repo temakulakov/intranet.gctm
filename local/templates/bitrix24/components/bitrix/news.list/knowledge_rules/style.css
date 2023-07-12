@@ -1,0 +1,74 @@
+.museum-rules {
+    padding: 30px 60px;
+    min-height: 768px;
+}
+
+.museum-rules * {
+    font-family: "Inter";
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    color: #000;
+}
+
+.museum-rules a.previous-page-btn {
+    font-size: 16px;
+    line-height: 25px;
+    color: #000;
+    transition: 0.3s;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.museum-rules a.previous-page-btn:hover {
+    color: #B7274C;
+    text-decoration: none;
+}
+
+.museum-rules h1 {
+    margin-bottom: 20px;
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #000;
+}
+
+.museum-rules__tiles {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.tile {
+    padding: 25px;
+    border: 1px solid rgba(17, 17, 17, 0.15);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+	transition: border-color .2s;
+}
+
+.tile img {
+    width: 220px;
+    height: 220px;
+}
+
+.tile-title {
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 700;
+    width: 100%;
+}
+
+.tile p {
+    font-size: 16px;
+    line-height: 25px;
+    align-self: flex-start;
+}
+
+.tile:hover {
+    border-color: #000;
+}

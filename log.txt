@@ -1,0 +1,1760 @@
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 09:43:36
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 09:45:50
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 09:45:59
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 09:46:01
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 09:46:22
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 09:46:22
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 09:48:54
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:01:45
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:13
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:14
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:14
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:15
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:15
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:36
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:37
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:38
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:38
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:39
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:40
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:42
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:43
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:43
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:02:46
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:04:02
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:13:10
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:17:30
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:18:20
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:18:23
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:18:27
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:18:47
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:18:58
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:19:01
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:19:21
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:19:22
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:19:26
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:19:26
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:19:27
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:19:27
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:19:41
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:40:57
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 10:48:32
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 11:18:17
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 11:18:20
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 11:18:22
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 11:18:24
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 11:18:25
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 11:18:25
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:09:41
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:07
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:08
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:08
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:10
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:10
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:10
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:11
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:11
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:11
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:12
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:12
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:13
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:13
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:30
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:35
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:10:37
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:16:08
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:22:27
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:26:27
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:26:31
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:41:23
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:43:30
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 12:43:31
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:00:53
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:00:58
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:00:59
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:01:07
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:01:11
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:01:53
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:05:10
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:05:43
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:05:56
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:05:56
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:08:48
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:08:50
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:13:44
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:14:54
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:16:27
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-05-16 13:17:13
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.event.call: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:285
+#1: Bitrix\Rest\OAuth\Client->sendEvent
+	/home/bitrix/www/bitrix/modules/rest/lib/event/provideroauth.php:28
+#2: Bitrix\Rest\Event\ProviderOAuth->send
+	/home/bitrix/www/bitrix/modules/rest/lib/event/sender.php:336
+#3: Bitrix\Rest\Event\Sender::send
+	
+#4: call_user_func_array
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:715
+#5: Bitrix\Main\Application->runBackgroundJobs
+	/home/bitrix/www/bitrix/modules/main/lib/application.php:304
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-05 20:25:23
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-07 10:48:41
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-07 23:20:35
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-08 03:07:16
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-08 13:22:45
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-08 19:13:36
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: 
+Date: 2023-07-09 00:03:19
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/application.usage.add: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:278
+#1: Bitrix\Rest\OAuth\Client->sendApplicationUsage
+	/home/bitrix/www/bitrix/modules/rest/lib/usagestat.php:529
+#2: Bitrix\Rest\UsageStatTable::sendDateStat
+	/home/bitrix/www/bitrix/modules/rest/lib/usagestat.php:461
+#3: Bitrix\Rest\UsageStatTable::sendAgent
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php(178) : eval()'d code:1
+#4: eval
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php:178
+#5: CAgent::ExecuteAgents
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php:21
+----------
+Host: 
+Date: 2023-07-09 01:04:13
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/application.usage.add: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:278
+#1: Bitrix\Rest\OAuth\Client->sendApplicationUsage
+	/home/bitrix/www/bitrix/modules/rest/lib/usagestat.php:529
+#2: Bitrix\Rest\UsageStatTable::sendDateStat
+	/home/bitrix/www/bitrix/modules/rest/lib/usagestat.php:461
+#3: Bitrix\Rest\UsageStatTable::sendAgent
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php(178) : eval()'d code:1
+#4: eval
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php:178
+#5: CAgent::ExecuteAgents
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php:21
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-09 01:04:53
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: 
+Date: 2023-07-09 02:05:12
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/application.usage.add: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:278
+#1: Bitrix\Rest\OAuth\Client->sendApplicationUsage
+	/home/bitrix/www/bitrix/modules/rest/lib/usagestat.php:529
+#2: Bitrix\Rest\UsageStatTable::sendDateStat
+	/home/bitrix/www/bitrix/modules/rest/lib/usagestat.php:461
+#3: Bitrix\Rest\UsageStatTable::sendAgent
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php(178) : eval()'d code:1
+#4: eval
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php:178
+#5: CAgent::ExecuteAgents
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php:21
+----------
+Host: 
+Date: 2023-07-09 03:06:13
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/application.usage.add: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:278
+#1: Bitrix\Rest\OAuth\Client->sendApplicationUsage
+	/home/bitrix/www/bitrix/modules/rest/lib/usagestat.php:529
+#2: Bitrix\Rest\UsageStatTable::sendDateStat
+	/home/bitrix/www/bitrix/modules/rest/lib/usagestat.php:461
+#3: Bitrix\Rest\UsageStatTable::sendAgent
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php(178) : eval()'d code:1
+#4: eval
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php:178
+#5: CAgent::ExecuteAgents
+	/home/bitrix/www/bitrix/modules/main/classes/mysql/agent.php:21
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-09 03:07:05
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-09 03:07:07
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-09 13:18:40
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-09 15:28:23
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-09 18:12:48
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-09 18:13:07
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-09 18:13:11
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-10 04:02:55
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-10 04:03:08
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-10 04:03:13
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-10 04:03:15
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------
+Host: intranet.gctm.ru:443
+Date: 2023-07-10 04:03:26
+Strange answer from Bitrix Service! https://oauth.bitrix.info/rest/rest.check: 0 
+#0: Bitrix\Rest\OAuth\Client->call
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/client.php:257
+#1: Bitrix\Rest\OAuth\Client->checkAuth
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:242
+#2: Bitrix\Rest\OAuth\Auth::check
+	/home/bitrix/www/bitrix/modules/rest/lib/oauth/auth.php:71
+#3: Bitrix\Rest\OAuth\Auth::onRestCheckAuth
+	/home/bitrix/www/bitrix/modules/main/classes/general/module.php:480
+#4: ExecuteModuleEventEx
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest_util.php:512
+#5: CRestUtil::checkAuth
+	/home/bitrix/www/bitrix/modules/rest/classes/general/rest.php:603
+----------

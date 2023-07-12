@@ -1,0 +1,122 @@
+.guide {
+    padding: 30px 60px;
+    min-height: 768px;
+}
+
+.guide * {
+    font-family: "Inter";
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.guide a.previous-page-btn {
+    font-size: 16px;
+    line-height: 25px;
+    color: #000;
+    transition: 0.3s;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.guide a.previous-page-btn:hover {
+    color: #B7274C;
+    text-decoration: none;
+}
+
+.guide h1 {
+    margin-bottom: 25px;
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #000;
+}
+
+.guide p {
+    margin-bottom: 60px;
+    color: #000;
+}
+
+.text-bg {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.guide h3 {
+    margin-bottom: 25px;
+    color: #000;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+}
+
+.guide__steps {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.step {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 1px solid rgba(17, 17, 17, 0.15);
+    border-radius: 20px;
+    padding: 25px;
+    transition: 0.3s;
+    cursor: context-menu;
+}
+
+.step:hover {
+    color: #fff;
+    background-color: #B7274C;
+}
+
+.step:hover .step__button {
+    background-color: #fff;
+    color: #000;
+}
+
+.step:hover .step__button svg path {
+    stroke: #000;
+}
+
+.step__title {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.step__text {
+    font-size: 16px;
+    line-height: 25px;
+    flex: 1 0 auto;
+    margin-bottom: 10px;
+}
+
+.step__button {
+    background-color: #B7274C;
+    color: #fff;
+    display: flex;
+    gap: 5px;
+    padding: 7px 17px;
+    display: inline-block;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.step__button svg {
+    transition: 0.3s;
+}
+
+.step__button:hover {
+    background-color: #891635;
+    color: #fff;
+}
+
+.step__button:hover svg path {
+    stroke: #fff;
+}

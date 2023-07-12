@@ -1,0 +1,181 @@
+.root {
+    padding: 10px;
+}
+
+.previous-page-btn {
+    font-weight: 400;
+    font-size: 16px;
+    display: inline-block;
+    line-height: 25px;
+    padding: 7px 20px 7px 13px;
+    border-radius: 10px;
+    background-color: #f5f0f0;
+    color: black;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.previous-page-btn:hover {
+    font-size: 16px;
+    display: inline-block;
+    line-height: 25px;
+    border-radius: 10px;
+    background-color: #B7274C;
+    color: #fff;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.send-form-btn {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    /* отображаем курсор в виде руки при наведении; некоторые
+    считают, что необходимо оставлять стрелочный вид для кнопок */
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 16px;
+    display: inline-block;
+    line-height: 25px;
+    padding: 7px 20px 7px 20px;
+    border-radius: 10px;
+    background-color: #f5f0f0;
+    color: black;
+    transition: .3s all cubic-bezier(.2,0,0,1);
+    text-decoration: none;
+}
+
+.send-form-btn:hover {
+    font-size: 16px;
+    display: inline-block;
+    line-height: 25px;
+    border-radius: 10px;
+    background-color: #B7274C;
+    color: #fff;
+    transition: .3s all cubic-bezier(.2,0,0,1);
+    text-decoration: none;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    border-radius: 10px;
+    background-color: #f5f0f0;
+    margin-top: 6px;
+}
+
+.card p {
+
+}
+
+.user-tag {
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    width: fit-content;
+
+    /* M3/sys/light/surface */
+
+    background: white;
+    /* M3/sys/light/outline */
+
+    border: none;
+    border-radius: 30px;
+    transition: .3s all cubic-bezier(.2,0,0,1);
+}
+.user-tag:hover {
+    background-color: #E5E9EC;
+}
+
+.user-tag p {
+    margin: 0;
+    color: black;
+    max-width: 140px;
+}
+
+.avatar {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background-color: #E5E9EC;
+}
+
+.form-input {
+    height: 35px;
+}
+
+.form {
+    width: fit-content;
+}
+
+.form-string {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    height: 37px;
+    max-width: 250px;
+    margin: 7px 0;
+}
+
+.form-string img {
+    height: 30px;
+    width: 38px;
+    fill: white;
+}
+
+.form-string label  {
+    color: #555555;
+}
+
+.form-input {
+    border: none;
+    border-radius: 10px;
+
+    background-color: rgba(145, 122, 144, 0);
+    transition: .3s all cubic-bezier(.2,0,0,1);
+    padding: 6px 8px 6px 8px;
+}
+
+.form-input:hover {
+    background-color: #F3F3F3;
+}
+
+.single {
+    width: 100%;
+}
+
+
+.counter {
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    width: fit-content;
+    padding:  0 5px;
+    font-size: 20px;
+}
+
+.form {
+    border: 1.1px solid #F3F3F3;
+    border-radius: 15px;
+    padding: 6px;
+    display: block;
+}
+.form-grid {
+    display: flex;
+    flex-direction: row;
+}
+
+.heading {
+    display: flex;
+    flex-direction: row;
+}

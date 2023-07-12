@@ -1,0 +1,82 @@
+.menu-page {
+    padding: 30px 60px;
+    min-height: 768px;
+}
+
+.menu-page * {
+    font-family: "Inter";
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    color: #000;
+}
+
+.menu-page a.previous-page-btn {
+    font-size: 16px;
+    line-height: 25px;
+    color: #000;
+    transition: 0.3s;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.menu-page a.previous-page-btn:hover {
+    color: #B7274C;
+    text-decoration: none;
+}
+
+.menu-page h1 {
+    margin-bottom: 60px;
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.menu-page__tiles {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.menu-page__tile {
+    display: block;
+    padding: 0px;
+    transition: 0.3s;
+    border: 1px solid rgba(17, 17, 17, 0.15);
+    border-radius: 20px;
+}
+
+.menu-page__tile a {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+    padding: 25px;
+}
+
+.menu-page__tile a img {
+    margin-bottom: 20px;
+    width: 350px;
+    height: 350px;
+}
+
+.menu-page__tile * {
+    font-size: 20px !important;
+    line-height: 30px !important;
+}
+
+.tile-title {
+    font-weight: 700;
+    width: 100%;
+}
+
+.tile p {
+    font-size: 16px;
+    line-height: 25px;
+    align-self: flex-start;
+}
+
+.menu-page__tile:hover {
+    border-color: #000;
+}

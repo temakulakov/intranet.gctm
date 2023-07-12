@@ -1,0 +1,88 @@
+div[data-id='timeman'] {
+display: none;
+}
+
+div[data-id='files'] {
+display: none;
+}
+
+div[data-id='work_report'] {
+display: none;
+}
+div[data-id='groups'] {
+display: none;
+}
+div[data-id='blog'] {
+display: none;
+}
+
+.intranet-user-profile-column-block:nth-child(2):has(+ div) {
+display: none;
+}
+
+.help-block  {
+display:none !important;
+}
+
+.bx-im-users-wrap {
+top:155px !important;
+}
+
+.header-search-inner{
+border-radius: 10px;
+}
+
+.header-search-inner::placeholder {
+color: #333333;
+}
+
+.header-search-inner::placeholder:first-letter {
+text-transform: uppercase;
+}
+.bx-bizproc-table-body tr {
+    background-color: red !important;
+}
+
+.ui-btn-primary {
+    background-color: #B7274D !important;
+    color: white !important;
+    transition: border-radius 1s cubic-bezier(.2,0,0,1), background-color .3s cubic-bezier(.2,0,0,1)!important;
+}
+.ui-btn-primary:hover {
+border-radius: 30px;
+    background-color: #8A1635 !important;
+    color: white !important;
+}
+tr .bx-bottom {
+    display: none !important;
+}
+
+input[title="Сохранить и остаться в форме"] {
+display: none !important;
+}
+
+.timeman-background {
+display: none !important;
+}
+
+.user-block::after {
+	display: none !important;
+}
+
+#timeman-container {
+transition: border-radius .3s cubic-bezier(.2,0,0,1),background-color .3s cubic-bezier(.2,0,0,1);
+}
+
+#timeman-container:hover {
+	border-radius: 10px;
+	background-color: #FFFFFF40;
+}
+
+.user-block {
+transition: border-radius .3s cubic-bezier(.2,0,0,1),background-color .3s cubic-bezier(.2,0,0,1) !important;
+}
+
+.user-block:hover {
+border-radius: 10px;
+	background-color: #FFFFFF40;
+}

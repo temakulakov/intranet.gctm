@@ -1,0 +1,115 @@
+.hotline {
+    padding: 30px 15px;
+    min-height: 768px;
+}
+
+.hotline * {
+    font-family: "Inter";
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    color: #000;
+}
+
+.hotline a.previous-page-btn {
+    font-size: 16px;
+    line-height: 25px;
+    color: #000;
+    transition: 0.3s;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.hotline a.previous-page-btn:hover {
+    color: #B7274C;
+    text-decoration: none;
+}
+
+.hotline h1 {
+    margin-bottom: 25px;
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.hotline p {
+    margin-bottom: 60px;
+}
+
+.text-bg {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.hotline__tiles {
+    display: flex;
+justify-content: center;
+max-width: 100%;
+}
+
+/*
+.hotline__tiles {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+*/
+
+.hotline__tile {
+    display: flex;
+margin-right: 30px;
+    flex-direction: column;
+    align-items: flex-start;
+    transition: 0.3s;
+    padding: 25px;
+    border: 1px solid rgba(17, 17, 17, 0.15);
+    border-radius: 20px;
+    gap: 12px;
+	justify-content: space-between;
+max-width: 455px;
+min-width: 455px;
+}
+
+.hotline__tile * {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.hotline__tile img {
+    align-self: center;
+    width: 350px;
+    height: 350px;
+}
+
+.tile-title {
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 700;
+    width: 100%;
+margin: 15px 0 5px 0;
+}
+
+.tile p {
+    font-size: 16px;
+    line-height: 25px;
+    align-self: flex-start;
+}
+
+.hotline .btn {
+    padding: 18px 72px;
+    border-radius: 14px;
+    text-decoration: none;
+    background-color: #B7274C;
+    color: #fff;
+    transition: 0.3s;
+	
+}
+
+.hotline .btn:hover {
+    background-color: #891635;
+    color: #fff;
+}
+.tile-block {
+	height: 130px;
+}

@@ -1,0 +1,393 @@
+.content {
+    padding: 30px 60px;
+    min-height: 768px;
+}
+
+.content * {
+    font-family: "Inter";
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    color: #000;
+}
+
+.content p {
+    margin-bottom: 10px;
+    font-size: 20px;
+    line-height: 25px;
+	text-align: justify;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+    font-size: inherit;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.content h1 {
+    font-size: 48px;
+    line-height: 60px;
+}
+
+.content h2 {
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.content h3,
+.content .text-bg {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.content h4,
+.content .text-md {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.content ol,
+.content ul {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 20px;
+}
+
+.content ol li,
+.content ul li {
+    font-size: 20px;
+    line-height: 30px;
+	
+}
+
+.content ul li::first-letter {
+  text-transform: uppercase;
+}
+
+.content a {
+    margin-bottom: 25px;
+    display: inline-block;
+    color: #B7274C;
+    transition: 0.3s;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.content a:hover {
+    text-decoration: underline;
+    color: #B7274C;
+}
+
+.content a.previous-page-btn {
+    font-size: 16px;
+    line-height: 25px;
+    color: #000;
+    transition: 0.3s;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.content a.previous-page-btn:hover {
+    color: #B7274C;
+    text-decoration: none;
+}
+
+.content ol.list-md * {
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.content .text-sm {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.content .list-sm * {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.safe-img {
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 20px;
+}
+
+.sample-img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 20px;
+}
+
+.img-description {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 25px;
+    display: inline-block;
+}
+
+.content-rows {
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    margin-bottom: 25px;
+}
+
+.content-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-row:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+
+.content-row__text {
+    max-width: 530px;
+}
+
+.content-row__text h2 {
+    margin-bottom: 25px;
+}
+
+.content__row-img {
+    max-width: 500px;
+}
+
+.content__row-img img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.quote {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0px;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+    margin-bottom: 25px;
+}
+
+.quote__author {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    max-width: 150px;
+}
+
+.quote__author-photo {
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.quote__author-photo img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.quote__author-name {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.quote__author-work-position {
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(17, 17, 17, 0.5);
+}
+
+.quote__text {
+    position: relative;
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.quote__text::before {
+    content: "";
+    height: 32px;
+    background-image: url(../../../../images/quote.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    flex: 0 0 36px;
+    position: relative;
+    top: 5px;
+}
+
+.quote__text p {
+    max-width: 800px;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.collage h2 {
+    margin-bottom: 40px;
+}
+
+.album__grid a {
+    width: 260px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.album__grid a img {
+    width: 100%;
+    height: auto;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.mediacontent {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 25px;
+}
+
+.tile-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 25px;
+}
+
+.tile-link {
+    border: 1px solid rgba(17, 17, 17, 0.15);
+    border-radius: 20px;
+    min-height: 200px;
+    transition: 0.3s;
+}
+
+.tile-link * {
+    color: #000;
+}
+
+.tile-link a {
+    display: flex;
+    padding: 25px;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.tile-link__title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 5px;
+}
+
+.tile-link__arrow {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.tile-link:hover {
+    background-color: #B7274C;
+}
+
+.tile-link:hover * {
+    color: #fff;
+}
+
+.tile-link:hover a {
+    text-decoration: none;
+}
+
+.tile-link:hover .tile-link__arrow svg path {
+    stroke: #fff;
+}
+
+.content table {
+    width: 100%;
+    -moz-text-align-last: left;
+    text-align-last: left;
+    font-size: 16px;
+    line-height: 25px;
+    border-collapse: collapse;
+    margin-bottom: 25px;
+}
+
+.content table td,
+.content table th {
+    padding: 12px 20px;
+}
+
+.content table tbody tr:nth-child(odd) {
+    background-color: #F1F1F1;
+}
+
+.content table td p {
+    margin: 0;
+}
+
+.advantages__wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    -moz-column-gap: 75px;
+    column-gap: 75px;
+    row-gap: 50px;
+}
+
+.advantages__item {
+    display: flex;
+    flex-direction: column;
+}
+
+.advantages__item-icon {
+    width: 68px;
+    height: 68px;
+    background-color: #EFEEEE;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.advantages__item-title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 5px;
+}
+
+.advantages__item-text {
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.container ul li::marker {
+	content: "- ";
+}
+
+.container ul li::after {
+	content: ";";
+}
+.xxx:hover {
+background: #B7274D !important;
+color: white !important;
+text-color: white !important;
+}
+
+.xxx:hover p {
+color: white !important;
+text-color: white !important;
+}
