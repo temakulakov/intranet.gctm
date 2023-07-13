@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="intanet.gctm.ru" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="intanet.gctm.ru">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/bitrix" />
+            <excludedPath path="/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
