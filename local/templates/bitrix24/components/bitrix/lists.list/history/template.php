@@ -172,6 +172,7 @@ elseif(!IsModuleInstalled("intranet"))
 ?>
 
 
+
 <script>
     if (document.location.href.includes("/komandirovki/history.php")) {
         document.getElementById("pagetitle").textContent = "История ваших согласований";

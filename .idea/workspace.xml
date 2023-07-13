@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3db4cce1-f856-4be4-8631-5685961205af" name="Changes" comment="Init sync with bitrix vm" />
+    <list default="true" id="3db4cce1-f856-4be4-8631-5685961205af" name="Changes" comment="Добавил новый шаблон универсальных списков и применил его (также изменил шаблон для компонента добавления нового элемента и указал новый шаблон элемента добавления списка в комплексном компоненте списоков, после чего на сайте стал отображаться дефолтный шаблон компонента добавления элемента, судя по всему из-за того, что ядро не увидело новый элемент)">
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.lookup.input/elements/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.lookup.input/elements/lang/en/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.lookup.input/elements/lang/ru/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.lookup.input/elements/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.lookup.input/elements/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/images/arrow_down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/images/arrow_down_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/images/arrow_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/images/arrow_right_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/images/group_bg_active.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/images/subgroup_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/images/title_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/lang/en/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/lang/ru/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/bitrix/main.tree.selector/elements/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/images/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/images/calendar1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/images/delete_element.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/images/popup_notify_admin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/images/view_elements.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/lang/en/event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/lang/ru/event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/script.map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/script.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit/gctm/template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.list/history/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.list/history/template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists/template2/list_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists/template2/list_edit.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +61,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="c55317b4f3a8327219aeeaabc5f63a109b52d44e" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +78,14 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$USER_HOME$/Downloads/bxApiDocs-master" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="2SV9EeEqACZ27yu9HAQc1SDIvFw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,17 +96,30 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "true",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "true",
+    "WebServerToolWindowPanel.toolwindow.show.size": "true",
+    "last_opened_file_path": "/Users/artemkulakov/PhpstormProjects/intranet.gctm/local/templates/bitrix24/components/bitrix/lists.element.edit",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/local/templates/bitrix24/components/bitrix/lists.element.edit" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3db4cce1-f856-4be4-8631-5685961205af" name="Changes" comment="" />
@@ -72,7 +132,10 @@
       <workItem from="1689226648352" duration="830000" />
       <workItem from="1689235292577" duration="1023000" />
       <workItem from="1689236527901" duration="36000" />
-      <workItem from="1689236575914" duration="807000" />
+      <workItem from="1689236575914" duration="2075000" />
+      <workItem from="1689238663061" duration="2150000" />
+      <workItem from="1689242552100" duration="1495000" />
+      <workItem from="1689247802407" duration="1898000" />
     </task>
     <task id="LOCAL-00001" summary="Add new git core files">
       <option name="closed" value="true" />
@@ -122,7 +185,23 @@
       <option name="project" value="LOCAL" />
       <updated>1689237153818</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Init sync with bitrix vm">
+      <option name="closed" value="true" />
+      <created>1689237425909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689237425909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Init sync with bitrix vm">
+      <option name="closed" value="true" />
+      <created>1689238949537</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689238949537</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +221,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new git core files" />
     <MESSAGE value="Init sync with bitrix vm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init sync with bitrix vm" />
+    <MESSAGE value="Добавил новый шаблон универсальных списков и применил его (также изменил шаблон для компонента добавления нового элемента и указал новый шаблон элемента добавления списка в комплексном компоненте списоков, после чего на сайте стал отображаться дефолтный шаблон компонента добавления элемента, судя по всему из-за того, что ядро не увидело новый элемент)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил новый шаблон универсальных списков и применил его (также изменил шаблон для компонента добавления нового элемента и указал новый шаблон элемента добавления списка в комплексном компоненте списоков, после чего на сайте стал отображаться дефолтный шаблон компонента добавления элемента, судя по всему из-за того, что ядро не увидело новый элемент)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
